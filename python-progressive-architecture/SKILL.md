@@ -1,3 +1,8 @@
+---
+name: Python Progressive Architecure Enforcer
+description: Guide the generation and refactoring of Python projects to follow a clean, scalable, and idiomatic structure that evolves with complexity.
+---
+
 # Python Progressive Architecture Enforcer (Pythonic & Scalable)
 
 ## Purpose
