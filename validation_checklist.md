@@ -1,0 +1,4 @@
+- Tests written first
+- Correct strategy chosen
+- Correct layer chosen
+- No overengineering
