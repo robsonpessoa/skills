@@ -1,6 +1,8 @@
 ---
 name: Python Progressive Architecure Enforcer
 description: Guide the generation and refactoring of Python projects to follow a clean, scalable, and idiomatic structure that evolves with complexity.
+  TRIGGER when: user asks to structure or organize a Python project; user asks to refactor multiple Python files; a file exceeds ~150 lines; a module mixes business logic, I/O, and validation; user asks about folder structure or project layout; user asks to scale or modularize existing Python code.
+  SKIP: single-file scripts with a single clear responsibility; non-Python projects; user explicitly wants a flat structure.
 ---
 
 # Python Progressive Architecture Enforcer (Pythonic & Scalable)
