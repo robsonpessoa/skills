@@ -1,8 +1,6 @@
 ---
 name: Python Clean Code TDD Advanced
-description: Enforce clean, readable Python code using adaptive TDD, intelligent testing strategies, and proper test design.
-  TRIGGER when: user asks to write, implement, or generate Python code; user requests a function, class, or module in Python; any `.py` file is being created or modified; user asks to add tests or fix a bug in Python; user asks to refactor Python code; user shares Python code and asks for help.
-  SKIP: user is only asking a conceptual question without code generation; non-Python languages; user explicitly says to skip TDD.
+description: "Enforce clean, readable Python code using adaptive TDD, intelligent testing strategies, and proper test design. TRIGGER when: user asks to write, implement, or generate Python code; user requests a function, class, or module in Python; any .py file is being created or modified; user asks to add tests or fix a bug in Python; user asks to refactor Python code; user shares Python code and asks for help. SKIP: user is only asking a conceptual question without code generation; non-Python languages; user explicitly says to skip TDD."
 ---
 
 # Overview
